@@ -2,7 +2,7 @@
 //
 // Execute `rustlings hint if3` or use the `hint` watch subcommand for a hint.
 
-// I AM NOT DONE
+// I AM DONE
 
 pub fn animal_habitat(animal: &str) -> &'static str {  // &'static str in simple terms is a string literal
     let identifier = if animal == "crab" {
