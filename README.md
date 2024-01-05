@@ -7,3 +7,6 @@ Could have used the official repo or a fork, but I wanted to have a repo of my o
 - [x] Variables
 - [x] Functions
 - [x] If
+- [x] Primitive Types
+
+- [x] Quiz 1
